@@ -8,7 +8,9 @@ which is what i love about that place
 
 --------------------------------------------------------------------------
 
-# Nearest airport to my favourite food place is Rajiv Gandhi International Airport
+# Directions to my favourite food place
+###### Rajiv Gandhi international Airport, is the nearest airport
+
 
 1. Follow the approaching road to NH 44.
 2. Take the NH 44 until you reach Masab Tank Flyover
