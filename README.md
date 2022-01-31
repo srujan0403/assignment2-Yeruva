@@ -42,6 +42,6 @@ Cricket, Tennis, Squash and Badminton are the sports i would recommend to try.
 
 # Quotes
 
-> Greater Perhaps. John Green
+> "Greater Perhaps" - John Green
 
-> Get busy living or get busy dying. Stephen King
+> "Get busy living or get busy dying" - Stephen King
