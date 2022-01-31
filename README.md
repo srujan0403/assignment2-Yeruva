@@ -37,3 +37,11 @@ Cricket, Tennis, Squash and Badminton are the sports i would recommend to try.
 |  Tennis     | Outdoor     |  $49  |
 |  Squash     | Recreation  |  $8   |
 |  Badminton  | Recreation  |  $39  |
+
+----------------------------------------------------
+
+# Quotes
+
+> Greater Perhaps. John Green
+
+> Get busy living or get busy dying. Stephen King
