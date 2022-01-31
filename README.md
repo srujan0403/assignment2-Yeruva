@@ -23,7 +23,7 @@ which is what i love about that place
 * Basically all kinds of biryanis
 
 
-[Know more about me](https://github.com/S546444/assignment2-Yeruva/blob/main/AboutMe.md)
+[Know more about me](https://github.com/srujan0403/assignment2-Yeruva/blob/main/AboutMe.md)
 
 -----------------------------------------------
 
