@@ -24,3 +24,16 @@ which is what i love about that place
 
 
 [Know more about me](https://github.com/S546444/assignment2-Yeruva/blob/main/AboutMe.md)
+
+-----------------------------------------------
+
+# Sports
+
+Cricket, Tennis, Squash and Badminton are the sports i would recommend to try.
+
+|  Name       |  Location   | Amount|
+|-------------|-------------|-------|
+|  Cricket    | South hall  |  $39  |
+|  Tennis     | Outdoor     |  $49  |
+|  Squash     | Recreation  |  $8   |
+|  Badminton  | Recreation  |  $39  |
