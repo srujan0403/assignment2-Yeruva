@@ -52,6 +52,8 @@ Cricket, Tennis, Squash and Badminton are the sports i would recommend to try.
 
 >In computer science and mathematics, the Josephus Problem (or Josephus permutation) is a theoretical problem. Following is the problem statement: There are n people standing in a circle waiting to be executed. ... The task is to choose the place in the initial circle so that you are the last one remaining and so survive. 
 
+More Details https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution
+
 Implementation recursive implementation :
         
         int josephus(int n, int k) {
@@ -85,3 +87,5 @@ Implementation (for convenience in 0-indexing):
         res += res / (k - 1);
         return res;
         }
+        
+For more details: https://cp-algorithms.com/others/josephus_problem.html
